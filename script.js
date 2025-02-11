@@ -58,35 +58,6 @@ setInterval(()=>{
 
 
 
-// const home = document.querySelector("#home")
-// const hover = document.querySelector(".hoverdiv")
-// const icon = document.querySelector(".icon")
-
-
-// home.addEventListener("mouseenter", () => {
-//     hover.style.opacity = 1;
-//     hover.style.visibility = "visible";
-//     hover.style.transform = "translateY(0)";
-//     icon.style.transform = "rotate(360deg)";
-//     icon.style.transition = "transform 0.5s ease-in-out"; 
-//     console.log("aakash")
-// })
-
-// home.addEventListener("mouseleave", () => {
-//     setTimeout(() => {
-//         hover.style.opacity = 0
-//         hover.style.visibility = "hidden";
-//         hover.style.transform = "translateY(-50px)";
-//         hover.style.transition = "0.4s";
-//         icon.style.transform = "rotate(0deg)";
-//     }, 100);
-// });
-
-
-
-
-
-
 
 
 

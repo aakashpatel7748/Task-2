@@ -1325,7 +1325,7 @@ footer {
         height: 40%;
         position: sticky;
         padding: 1% 4%;
-        margin-top: -76%;
+        margin-top: -60%;
     }
 
     #sec1 {
@@ -1355,10 +1355,7 @@ footer {
         gap: 30px;
     }
 
-    .selct2 {
-        padding: 0;
-        margin: 0;
-    }
+     
 
     .sec3-text>h2 {
         font-size: 25px;
